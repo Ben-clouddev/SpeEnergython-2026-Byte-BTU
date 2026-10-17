@@ -60,7 +60,8 @@ Tornado sensitivity (WACC and construction cost dominate NPV variance) plus a 5,
 )
 - 📄 [Shark Tank finals deck]([BYTE AND BTU PTTS.pptx](https://github.com/user-attachments/files/33583512/BYTE.AND.BTU.PTTS.pptx)
 )
-- 📊 [Techno-economic model]([ENERGYTHON_GAS_CCHP_15MW_PLANT_TECHNO_ECONOMIC_MODEL_DATA_UPDATED1.xlsx](https://github.com/user-attachments/files/33583524/ENERGYTHON_GAS_CCHP_15MW_PLANT_TECHNO_ECONOMIC_MODEL_DATA_UPDATED1.xlsx)
+- 📊 [Techno-economic model]([ENERGYTHON_GAS_CCHP_15MW_PLANT_TECHNO_ECONOMIC_MODEL_DATA_UPDATED1.xlsx](https://github.com/user-attachments/files/33583554/ENERGYTHON_GAS_CCHP_15MW_PLANT_TECHNO_ECONOMIC_MODEL_DATA_UPDATED1.xlsx)
+)
 )
 
 ---
